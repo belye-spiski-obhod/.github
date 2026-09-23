@@ -12,8 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B-%D0%9C%D0%A2%D0%A1%20%C2%B7%20%D0%91%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD%20%C2%B7%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD%20%C2%B7%20%D0%A2%D0%B5%D0%BB%D0%B52-1f2937?style=flat" alt="Операторы: МТС · Билайн · Мегафон · Теле2 · ТМобайл · Yota · СберМобайл"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4-7%20%D0%B4%D0%BD%D0%B5%D0%B9%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-b91c1c?style=flat" alt="Пробный период: 7 дней бесплатно"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Telegram-%40sapervpn__bot-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram: @sapervpn_bot"/>
